@@ -9,7 +9,7 @@ def binary_search(list, item):
     
     # пока эта переменная не сократится до 1 элемента, проверяем средний элемент
     while low <= high:
-        mid = (low + high) / 2
+        mid = int((low + high) / 2)
         guess = list[mid]
         
         # если значение найдено
