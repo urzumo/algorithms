@@ -1,2 +1,2 @@
-# algorithms
-Theory and practice of algorithms
+# Алгоритмы
+Теория и практика алгоритмов. Популярные алгоиртмы и их применение.
