@@ -9,3 +9,4 @@
 | 04. [Поиск недостающих чисел](https://github.com/urzumo/algorithms/blob/urzumo/algorithms/04_get_missing_number.py) |Ищет в непрерывном целочисленном ряду отсутствующие значения и возвращает их|
 | 05. [Ряд Фибоначчи](https://github.com/urzumo/algorithms/blob/urzumo/algorithms/05_fibonacci_nums.py) |Формирует ряд чисел Фибоначчи заданного размера|
 | 06. [Quicksort](https://github.com/urzumo/algorithms/blob/urzumo/algorithms/06_quicksort.py) |Сортирует список|
+| 07. [Permutations](https://github.com/urzumo/algorithms/blob/urzumo/algorithms/06_quicksort.py) |Возвращает все перестановки итератора|
